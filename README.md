@@ -50,12 +50,12 @@
 ---
 
 ### 🧠 Soft Skills
-- Motivation & Enthousiasme  
-- Créativité & Pensée critique  
-- Intelligence émotionnelle  
-- Esprit d’analyse & Audace  
-- Communication efficace  
-- Leadership & Adaptabilité  
+Highly motivated and enthusiastic
+Creative thinker with strong critical thinking skills
+Emotionally intelligent and self-aware
+Strong analytical skills with a bold approach
+Excellent communication abilities
+Adaptable leader with proven flexibility
 
 ---
 
@@ -66,3 +66,4 @@
 
 > 🌸 *"Code is like art — it reflects your mind more than your syntax."*  
 > — Zineb
+
